@@ -10,4 +10,4 @@
   
 3) How do I approach designing software?
 
-   First, understand the project, read through the requierements, and have a visualization of what is going on. Second, I divide the project into small tasks and tested will finishing each class and making sure that works perfectly before moving on to the next task. After finishing, test the whole project to make sure all work once is tested at the same time.
+  First, understand the project, read through the requierements, and have a visualization of what is going on. Second, I divide the project into small tasks and tested will finishing each class and making sure that works perfectly before moving on to the next task. After finishing, test the whole project to make sure all work once is tested at the same time.
